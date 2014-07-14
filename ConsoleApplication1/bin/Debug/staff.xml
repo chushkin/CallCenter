@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XML DataBase of employees-->
+<staff>
+  <employee id="01" position="Operator" isfree="True" />
+  <employee id="11" position="Operator" isfree="True" />
+  <employee id="21" position="Operator" isfree="True" />
+  <employee id="31" position="Operator" isfree="True" />
+  <employee id="41" position="Operator" isfree="True" />
+  <employee id="51" position="Manager" isfree="True" />
+  <employee id="61" position="Manager" isfree="True" />
+  <employee id="71" position="Manager" isfree="True" />
+  <employee id="81" position="Manager" isfree="True" />
+  <employee id="91" position="Manager" isfree="True" />
+  <employee id="101" position="Senior manager" isfree="True" />
+  <employee id="111" position="Senior manager" isfree="True" />
+  <employee id="121" position="Senior manager" isfree="True" />
+  <employee id="131" position="Senior manager" isfree="True" />
+  <employee id="141" position="Senior manager" isfree="True" />
+</staff>

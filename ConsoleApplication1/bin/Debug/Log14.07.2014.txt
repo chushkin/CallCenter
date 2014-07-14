@@ -1,0 +1,77 @@
+14.07.2014 7:49:35 : Before starting simulation you should configure number of operators:
+14.07.2014 7:49:35 : Enter the number of operators:
+14.07.2014 7:49:44 : Enter the number of managers:
+14.07.2014 7:49:45 : Enter the number of senior managers:
+14.07.2014 7:49:46 : +++++++++++++++++++++++++++
+14.07.2014 7:49:46 : Сontrol of the application:
+14.07.2014 7:49:46 : start - to start
+14.07.2014 7:49:46 : restart
+14.07.2014 7:49:46 : stop
+14.07.2014 7:49:46 : exit
+14.07.2014 7:49:53 : +++++++++++++++++++++++++++
+14.07.2014 7:49:53 : Сontrol of the application:
+14.07.2014 7:49:53 : start - to start
+14.07.2014 7:49:53 : restart
+14.07.2014 7:49:53 : stop
+14.07.2014 7:49:53 : exit
+14.07.2014 7:50:02 : !Restart!
+14.07.2014 7:50:02 : Сontrol of the Call Center
+14.07.2014 7:50:02 : call - to call
+14.07.2014 7:50:02 : all - get the full list of operators
+14.07.2014 7:50:02 : free - get a list of free operators
+14.07.2014 7:50:02 : busy - get a list of busy operators
+14.07.2014 7:50:02 : exit - go to the main menu
+14.07.2014 7:50:09 : Сontrol of the Call Center
+14.07.2014 7:50:09 : call - to call
+14.07.2014 7:50:09 : all - get the full list of operators
+14.07.2014 7:50:09 : free - get a list of free operators
+14.07.2014 7:50:09 : busy - get a list of busy operators
+14.07.2014 7:50:09 : exit - go to the main menu
+14.07.2014 7:50:13 : Сontrol of the Call Center
+14.07.2014 7:50:13 : Hello! I’m  Operator 01 
+14.07.2014 7:50:13 : call - to call
+14.07.2014 7:50:13 : all - get the full list of operators
+14.07.2014 7:50:13 : free - get a list of free operators
+14.07.2014 7:50:14 : busy - get a list of busy operators
+14.07.2014 7:50:14 : exit - go to the main menu
+14.07.2014 7:50:30 :  Operator 01  ended a call.
+14.07.2014 7:50:35 : +++++++++++++++++++++++++++
+14.07.2014 7:50:35 : Сontrol of the application:
+14.07.2014 7:50:35 : start - to start
+14.07.2014 7:50:35 : restart
+14.07.2014 7:50:35 : stop
+14.07.2014 7:50:35 : exit
+14.07.2014 9:36:37 : Before starting simulation you should configure number of operators:
+14.07.2014 9:36:37 : Enter the number of operators:
+14.07.2014 9:36:57 : Enter the number of managers:
+14.07.2014 9:37:01 : Enter the number of senior managers:
+14.07.2014 9:37:04 : +++++++++++++++++++++++++++
+14.07.2014 9:37:04 : Сontrol of the application:
+14.07.2014 9:37:04 : start - to start
+14.07.2014 9:37:04 : restart
+14.07.2014 9:37:04 : stop
+14.07.2014 9:37:04 : exit
+14.07.2014 9:39:34 : Before starting simulation you should configure number of operators:
+14.07.2014 9:39:34 : Enter the number of operators:
+14.07.2014 9:39:38 : Enter the number of managers:
+14.07.2014 9:39:38 : Enter the number of senior managers:
+14.07.2014 9:39:38 : +++++++++++++++++++++++++++
+14.07.2014 9:39:38 : Сontrol of the application:
+14.07.2014 9:39:38 : start - to start
+14.07.2014 9:39:38 : restart
+14.07.2014 9:39:38 : stop
+14.07.2014 9:39:38 : exit
+14.07.2014 9:40:20 : Сontrol of the Call Center
+14.07.2014 9:40:20 : call - to call
+14.07.2014 9:40:20 : all - get the full list of operators
+14.07.2014 9:40:20 : free - get a list of free operators
+14.07.2014 9:40:20 : busy - get a list of busy operators
+14.07.2014 9:40:20 : exit - go to the main menu
+14.07.2014 9:41:33 : Сontrol of the Call Center
+14.07.2014 9:41:33 : call - to call
+14.07.2014 9:41:33 : all - get the full list of operators
+14.07.2014 9:41:33 : free - get a list of free operators
+14.07.2014 9:41:33 : busy - get a list of busy operators
+14.07.2014 9:41:33 : Hello! I’m  Operator 01 
+14.07.2014 9:41:33 : exit - go to the main menu
+14.07.2014 9:41:49 :  Operator 01  ended a call.
